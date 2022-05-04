@@ -3,4 +3,3 @@
 ========
 
 Restaurant Theme based on Twitter Bootstrap 3
-![image](https://user-images.githubusercontent.com/57448526/166729754-b39d683f-c5f6-4026-92bd-b03e17307798.png)
